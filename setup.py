@@ -9,7 +9,7 @@ setup(
     author='Varun Bansal',
     author_email='varunb94@gmail.com',
     license='Apache2',
-    url='',
+    url='https://github.com/linuxpi/hypothesis_client',
     packages=setuptools.find_packages(),
     install_requires=['mechanicalsoup', 'requests'],
     classifiers=(
