@@ -1,0 +1,7 @@
+.python_version
+.idea
+dist/
+hypothesis_client.egg-info/
+.DS_Store
+.python-version
+build/
