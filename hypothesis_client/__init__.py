@@ -1,2 +1,2 @@
-from token_scraper import TokenScraper
-from hypothesis_client import HypothesisClient
+from hypothesis_client.token_scraper import TokenScraper
+from hypothesis_client.hypothesis_client import HypothesisClient
